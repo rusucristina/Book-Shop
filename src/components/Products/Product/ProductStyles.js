@@ -14,7 +14,11 @@ export default makeStyles(() => ({
     justifyContent: 'flex-end',
   },
   cardContent: {
-    display: 'flex',
+    // display: 'flex',
     justifyContent: 'space-between',
   },
+  bookTitle:{
+    fontSize:"1.5rem",
+    fontFamily:"cursive"
+  }
 }));
