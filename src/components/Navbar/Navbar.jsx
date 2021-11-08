@@ -1,5 +1,5 @@
 import React from 'react'
-import { AppBar, Toolbar, IconButton, Badge, MenuItem, Menu, Typography } from "@material-ui/core";
+import { AppBar, Toolbar, IconButton, Badge, Typography } from "@material-ui/core";
 import { ShoppingBasketSharp } from "@material-ui/icons"
 import logo from "../../images/cf8da4916e0c31dd519a6ee9af923674.jpg"
 import useStyles from "./NavbarStyles"
